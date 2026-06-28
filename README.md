@@ -1,1 +1,1 @@
-I implemented a tiered OU structure to support role-based access control. I created standard user accounts for the Sales department and assigned them to specific security groups to manage their permissions effectively.
+
